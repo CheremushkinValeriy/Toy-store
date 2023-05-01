@@ -24,8 +24,6 @@ public class Program {
         toyStore.saveToyForLottery();
         toyStore.saveToyForLottery();
 
-
     }
-    
     
 }
